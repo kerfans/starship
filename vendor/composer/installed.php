@@ -6,7 +6,7 @@
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'reference' => NULL,
-        'name' => 'starship/log',
+        'name' => 'Starshipeeees/log',
         'dev' => true,
     ),
     'versions' => array(
@@ -19,7 +19,7 @@
             'reference' => 'd49695b909c3b7628b6289db5479a1c204601f11',
             'dev_requirement' => false,
         ),
-        'starship/log' => array(
+        'Starshipeeees/log' => array(
             'pretty_version' => '1.0.0+no-version-set',
             'version' => '1.0.0.0',
             'type' => 'library',

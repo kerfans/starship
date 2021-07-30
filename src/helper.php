@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Starship\Log;
+namespace Starshipeeees\Log;
 
 
 class helper
@@ -9,6 +9,6 @@ class helper
 
     public function hello_startship()
     {
-        return "hello startship";
+        return "hello startship\n";
     }
 }
