@@ -2,8 +2,9 @@
     "name": "starshipeeees/log",
     "type": "library",
     "require": {
-        "php": ">=7.2",
-        "psr/log": "^1.1"
+        "php": "^7.2",
+        "psr/log": "^1.1",
+        "ext-xml": "php-mbstring"
     },
     "autoload": {
         "psr-4": {
