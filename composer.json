@@ -4,7 +4,7 @@
     "require": {
         "php": "^7.2",
         "psr/log": "^1.1",
-        "mbstring": "*"
+        "ext-mbstring": "*"
     },
     "autoload": {
         "psr-4": {
